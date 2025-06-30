@@ -1,4 +1,4 @@
-# Dashboard de Vendas de Assinaturas do Xbox criado no Excel <img width="48" height="48" src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="microsoft-excel-2019--v1"/>
+# Dashboard de Assinaturas do Xbox criado no Excel <img width="48" height="48" src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="microsoft-excel-2019--v1"/>
 
 ## 📑 Descrição
 
@@ -7,9 +7,9 @@
 ## ➡️ Etapas
 - Entender e limpar a base de dados;
 - Transformar dados em informações;
-- Responder as perguntas de negócios
-  1. Qual faturamento total de vendas de planos anuais (contendo todas as assinaturas agregadas)? 
-  2. Qual Faturamento total de vendas de planos anuais, separado por auto renovação e não renovação?
+- Responder as perguntas de negócios:
+  1. Qual o faturamento total de vendas de planos anuais (contendo todas as assinaturas agregadas)? 
+  2. Qual o faturamento total de vendas de planos anuais, separado por renovação e não renovação?
   3. Qual o total de vendas de assinaturas do EA Play?
   4. Qual o total de vendas de assinaturas do Minecraft Season Pass?
 - Criação de gráficos dinâmicos e filtros visuais;
